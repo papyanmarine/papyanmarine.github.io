@@ -1,0 +1,8 @@
+@media screen and (max-width: 767px) {
+    .ivent-date-wrap{
+        display: flex;
+    }
+    .date-txt{
+        margin-right: 3px;
+    }
+}
